@@ -1,0 +1,1 @@
+# Qr-scan-menu-application
